@@ -1,5 +1,5 @@
 
-<h1 align="left">Olá Mundo! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">Bem vindo ao meu Github</h1>
+<h1 align="left">Olá Mundo! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">Bem vindo ao meu Github.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GabrielOFaria&color=yellow" alt="Profile views" /> </p>
 
 - 🔭 Buscando minha primeira vaga front-end.
