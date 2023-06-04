@@ -2,9 +2,9 @@
 <h1 align="left">Hello World! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">Welcome to my Github.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GabrielOFaria&color=yellow" alt="Profile views" /> </p>
 
-- 🔭 Looking for my first front-end job.
-- 🌱 Studying html/css/js.
-- 📫 Contact - gabrielfariaw@gmail.com
+- 🔭 I’m a passionate front-end developer looking for my first opportunity in the field. <br>
+- 🌱 I’m currently learning HTML/CSS/JS and building awesome projects with them. <br>
+- 📫 You can reach me at gabrielfariaw@gmail.com
 
 ## Hi, I'm Gabriel, technology student! 🚀 Languages and Tools
 
