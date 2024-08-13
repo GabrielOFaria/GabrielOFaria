@@ -9,7 +9,7 @@
 ## Hi, I'm Gabriel, technology student! 🚀 Languages and Tools
 
 
-   <img src="https://skills.thijs.gg/icons?i=js,html,css,sass" alt="My Skills">
+
 
 > 
    
