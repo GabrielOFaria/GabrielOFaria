@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gabriel Alves de Oliveira Faria
+# 👋 Hi, I'm Gabriel Faria
 
 🎯 Front-end Developer in training, passionate about technology and building modern, functional interfaces.  
 💻 Currently focused on **HTML, CSS, JavaScript, and React**.  
