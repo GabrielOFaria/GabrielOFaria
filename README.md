@@ -1,18 +1,65 @@
+# 👋 Hi, I'm Gabriel Alves de Oliveira Faria
 
-<h1 align="left">Hello World! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">Welcome to my Github.</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=GabrielOFaria&color=yellow" alt="Profile views" /> </p>
+🎯 Front-end Developer in training, passionate about technology and building modern, functional interfaces.  
+💻 Currently focused on **HTML, CSS, JavaScript, and React**.  
+🚀 Looking for my first professional opportunity in software development.  
 
-- 🔭 I’m a passionate front-end developer looking for my first opportunity in the field. <br>
-- 🌱 I’m currently learning HTML/CSS/JS and building awesome projects with them. <br>
-- 📫 You can reach me at gabrielfariaw@gmail.com
+---
 
-## Hi, I'm Gabriel, technology student! 🚀 Languages and Tools
+## 🔧 Technologies & Tools
 
+<p align="left">
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  
+  <!-- Styling -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40"/>
+  
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
+  
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+</p>
 
+---
 
+## 📌 Featured Projects
 
-> 
-   
-   <a href="https://www.linkedin.com/in/[rafaella-ballerini-45875016a](https://www.linkedin.com/in/gabrielfaria47/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><a href="https://www.instagram.com/biel_zox/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><a href = "mailto:gabrielfariaw@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   
-  Discovering the love for technology!!  
+- 🎬 [**Netflix Clone**](https://github.com/GabrielOFaria/netflix-clone)  
+  Responsive Netflix-inspired interface built with SCSS.
+
+- 🍽️ [**Restaurant Website**](https://github.com/GabrielOFaria/website-restaurant)  
+  Responsive institutional website for a restaurant.
+
+- 🔑 [**Instagram Login Page**](https://github.com/GabrielOFaria/login-instagram)  
+  Recreated Instagram login page focusing on UI/UX.
+
+- 📱 [**MyLanguageApp**](https://github.com/GabrielOFaria/MyLanguageApp)  
+  Simple app for language learning.
+
+---
+
+## 📊 GitHub Stats
+
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielOFaria&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielOFaria&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contact
+
+- ✉️ Email: **gabrielfariaw@gmail.com**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/seu-linkedin)  
+- 🌍 Location: São Paulo - Brazil  
+
+---
+⭐ Always open to collaborations and new challenges!
